@@ -1,0 +1,28 @@
+^C:\USERS\QC_WO\ONEDRIVE\DESKTOP\JOB-TRACKING-SYSTEM\BUILD\WINDOWS\X64\CMAKEFILES\408662B2625B237237546ED315C6295A\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\qc_wo\OneDrive\Documents\flutter PROJECT_DIR=C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system FLUTTER_ROOT=C:\Users\qc_wo\OneDrive\Documents\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\ephemeral PROJECT_DIR=C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system FLUTTER_TARGET=C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\.dart_tool\package_config.json C:/Users/qc_wo/OneDrive/Documents/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\QC_WO\ONEDRIVE\DESKTOP\JOB-TRACKING-SYSTEM\BUILD\WINDOWS\X64\CMAKEFILES\3955CDF723CD073771371F20AAB2F184\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\QC_WO\ONEDRIVE\DESKTOP\JOB-TRACKING-SYSTEM\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/qc_wo/OneDrive/Desktop/job-tracking-system/windows -BC:/Users/qc_wo/OneDrive/Desktop/job-tracking-system/build/windows/x64 --check-stamp-file C:/Users/qc_wo/OneDrive/Desktop/job-tracking-system/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
