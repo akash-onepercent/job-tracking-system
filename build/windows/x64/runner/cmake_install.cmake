@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/qc_wo/OneDrive/Desktop/job-tracking-system/windows/runner
+# Install script for directory: C:/Users/akash/OneDrive/Documents/GitHub/job-tracking-system/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

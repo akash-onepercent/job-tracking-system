@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\build\windows\x64\CMakeFiles\408662b2625b237237546ed315c6295a\flutter_windows.dll.rule">
+    <CustomBuild Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\build\windows\x64\CMakeFiles\473863cfce18438115b2d0853d3e5262\flutter_windows.dll.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
-    <CustomBuild Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\build\windows\x64\CMakeFiles\3955cdf723cd073771371f20aab2f184\flutter_assemble.rule">
+    <CustomBuild Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\build\windows\x64\CMakeFiles\f95c7352a66fa79df394590ab316211d\flutter_assemble.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
-    <CustomBuild Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+    <None Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{FC9FA220-2F71-334A-996E-48668AA09245}</UniqueIdentifier>
+      <UniqueIdentifier>{9247EB11-9E26-3F1E-8ACB-BD3C94B020D6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

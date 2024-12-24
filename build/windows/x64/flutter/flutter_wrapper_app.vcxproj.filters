@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+    <ClCompile Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+    <ClCompile Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+    <ClCompile Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+    <ClCompile Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\qc_wo\OneDrive\Desktop\job-tracking-system\windows\flutter\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{FC9FA220-2F71-334A-996E-48668AA09245}</UniqueIdentifier>
+      <UniqueIdentifier>{9247EB11-9E26-3F1E-8ACB-BD3C94B020D6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{9F331EE4-D0C3-3E75-8357-61F6CE39560A}</UniqueIdentifier>
+      <UniqueIdentifier>{027C1D8D-CA5D-3983-8223-366A6212F245}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

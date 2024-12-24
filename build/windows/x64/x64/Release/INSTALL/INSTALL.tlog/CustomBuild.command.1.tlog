@@ -1,0 +1,10 @@
+^C:\USERS\AKASH\ONEDRIVE\DOCUMENTS\GITHUB\JOB-TRACKING-SYSTEM\BUILD\WINDOWS\X64\CMAKEFILES\97AB1650484F3931F312EDB2100CB3C7\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,28 @@
+^C:\USERS\AKASH\ONEDRIVE\DOCUMENTS\GITHUB\JOB-TRACKING-SYSTEM\BUILD\WINDOWS\X64\CMAKEFILES\473863CFCE18438115B2D0853D3E5262\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\windows\flutter\ephemeral PROJECT_DIR=C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=C:\Users\akash\OneDrive\Documents\GitHub\job-tracking-system\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\AKASH\ONEDRIVE\DOCUMENTS\GITHUB\JOB-TRACKING-SYSTEM\BUILD\WINDOWS\X64\CMAKEFILES\F95C7352A66FA79DF394590AB316211D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\AKASH\ONEDRIVE\DOCUMENTS\GITHUB\JOB-TRACKING-SYSTEM\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/akash/OneDrive/Documents/GitHub/job-tracking-system/windows -BC:/Users/akash/OneDrive/Documents/GitHub/job-tracking-system/build/windows/x64 --check-stamp-file C:/Users/akash/OneDrive/Documents/GitHub/job-tracking-system/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
