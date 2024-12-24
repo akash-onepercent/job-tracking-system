@@ -88,9 +88,14 @@ Now, clone the Flutter project repository to your local machine.
 
 After cloning the repository, you need to install the required dependencies.
 
-1. **Get dependencies**:
-   In the project directory, run the following command:
-   ```bash
-   flutter clean && flutter build windows
-   ```
-   This will clean and build the .exe file.
+**Get dependencies**:
+In the project directory, run the following command:
+```bash
+flutter clean && flutter build windows
+```
+This will clean and build the .exe file.
+
+
+# EXE FILE: The .exe file is located in `build\windows\x64\runner\Release\FAP.exe`
+
+
