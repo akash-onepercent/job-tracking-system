@@ -96,6 +96,6 @@ flutter clean && flutter build windows
 This will clean and build the .exe file.
 
 
-# EXE FILE: The .exe file is located in `build\windows\x64\runner\Release\FAP.exe`
+# EXE FILE: The .exe file is located in `build\FAP.exe`
 
 
